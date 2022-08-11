@@ -38,7 +38,7 @@ def getResponse(inputText):
      
 # Loop infinitely for user to
 # speak
- 
+print("Start speaking")
 while(1):   
      
     # Exception handling to handle
